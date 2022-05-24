@@ -10,7 +10,7 @@ Most of my work on GitHub is for student societies in UNSW. Specifically:
 - I am also a member of the Projects subcommittee in CSESoc, where I help make the [content management system for articles](https://github.com/csesoc/cms.csesoc.unsw.edu.au).
 - I am also the IT director for [Co-op Soc](https://github.com/coopsoc), where I help maintain the [website](https://coopsoc.com.au).
 
-## My interests
+## My interests 🚀
 
 Below are some of the things I've done:
 

@@ -1,10 +1,10 @@
 ## Hello! 👋
 
-My name's Hanyuan, and I'm a third-year Computer Science student at the University of New South Wales. I'm most skilled in backend development (specifically using Python and Rust), but I am interested in other things, including [messing](https://www.typescriptlang.org/) [with](https://factorcode.org/) [programming](https://crystal-lang.org/) [languages](https://clojure.org/) and game development.
+My name's Hanyuan, and I'm a fourth-year Computer Science student at the University of New South Wales. I'm most skilled in backend development (specifically using Python and Rust), but I am interested in other things, including [messing](https://www.typescriptlang.org/) [with](https://factorcode.org/) [programming](https://crystal-lang.org/) [languages](https://clojure.org/) and game development.
 
 ## What I do 👨‍💻
 
-Most of my work on GitHub is for student societies in UNSW. Specifically:
+Most of my work on GitHub is for student societies at UNSW. Specifically:
 
 - I was a Development Executive for [CSESoc](https://github.com/csesoc), where I helped overlook the various software projects we develop (including [Notangles](https://notangles.csesoc.app), [Circles](https://circles.csesoc.app) and [Freerooms](https://freerooms.csesoc.app)).
 - Before that, I was a Competitions director for CSESoc - check out the society's website [here](https://www.csesoc.unsw.edu.au)!

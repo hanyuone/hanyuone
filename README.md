@@ -14,8 +14,8 @@ In my spare time, I develop and write blogs for my website, [**hanyuone.live**](
 
 **Platforms and frameworks**
 
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://anaconda.com) [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) <a href="https://leptos.dev"><img alt="Leptos" src="svg/leptos.svg" width="48" /></a> [![Axum]()](https://github.com/tokio-rs/axum) [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://anaconda.com) [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) <a href="https://leptos.dev"><img alt="Leptos" src="svg/leptos.svg" width="48" /></a> <a href="https://github.com/tokio-rs/axum"><img alt="Axum" src="svg/axum.svg" width="48" /></a> [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
  
 **Developer tools**
 
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) <a href="https://helix-editor.com"><img alt="Helix" src="svg/helix.svg" width="48" /></a> [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![Codeberg]()](https://codeberg.org)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) <a href="https://helix-editor.com"><img alt="Helix" src="svg/helix.svg" width="48" /></a> [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) <a href="https://codeberg.org"><img alt="Codeberg" src="svg/codeberg.svg" width="48" /></a>

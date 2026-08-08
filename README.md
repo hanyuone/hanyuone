@@ -14,7 +14,7 @@ In my spare time, I develop and write blogs for my website, [**hanyuone.live**](
 
 **Platforms and frameworks**
 
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://anaconda.com) [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) [![Leptos]()](https://leptos.dev) [![Axum]()](https://github.com/tokio-rs/axum) [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://anaconda.com) [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org) [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) <a href="https://leptos.dev"><img alt="Leptos" src="svg/leptos.svg" width="48" /></a> [![Axum]()](https://github.com/tokio-rs/axum) [![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
  
 **Developer tools**
 
